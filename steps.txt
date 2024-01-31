@@ -1,0 +1,7 @@
+1. Pull the images from dockerhub
+2. Run the pulled images from dockerhub
+3. you can then go to aws, and create repo in ECR
+4. Configure the CodeBuild
+5. and configure the ECS clusters 
+6. create the aws auto scaling groups
+7. create the schduling actions to do time base schduling.
